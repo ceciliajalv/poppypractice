@@ -1,0 +1,130 @@
+body {
+    background-color: black;
+}
+h2  {
+    font-family: 'Special Elite', cursive;
+    color: white;
+    display: inline-block;
+    width: 50%;
+    margin-left: 30rem;
+    text-align: justify;
+}
+
+h3 {
+    font-family: 'Special Elite', cursive;
+    color: white;
+    display: inline-block;
+    width: 50%;
+    margin-left: 10rem;
+    text-align: justify;
+}
+
+
+nav ul {
+    position: fixed;
+    margin-top: 20vh;
+    border-left: thistle solid;
+    border-width: 2px;  
+    text-decoration: none;
+    padding-left: 10px;
+    margin-left: 2rem;
+    
+}  
+ul a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Special Elite', cursive;
+    
+}
+nav ul li {
+    padding-bottom: 0.5rem;
+    text-decoration: none;
+    list-style: none;
+}
+nav ul li:hover {
+    border-left: 3px #6C757D solid;
+    padding-left: 2px;
+    padding-bottom: 1px;
+}
+#hi {
+    color: hsl(0, 0%, 100%);
+    font-family: 'Liu Jian Mao Cao', cursive;
+    font-weight: 100;
+    letter-spacing: -0.1rem;
+    font-size: 3rem;
+    text-align: center;
+}   
+img .home {
+    width: 100%;
+    
+}
+#boton {
+    color: #ffffff;
+    font-family: 'Liu Jian Mao Cao', cursive;
+    text-align: center;
+    text-decoration: none;
+    width: 10rem;
+    box-align: center;
+    display: inline-block;
+    margin-left: 35rem;
+    border-bottom: solid 2px #DEE2E6;
+    border-right: solid 3px #ADB5BD;
+    border-top: solid 2px #495057;
+    border-left: solid 3px #6C757D;
+    padding: 0.2rem 0.2rem 0.7rem 0.2rem;  
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-family: 'Liu Jian Mao Cao', cursive;
+    font-weight: 100;
+    letter-spacing: -0.1rem;
+    font-size: 3rem;
+    text-align: left; 
+    margin-left: 10rem;
+         
+       
+}
+#about h3, #about h4 {
+    font-family: 'Special Elite', cursive;
+    color: #CED4DA;
+    display: inline-block;
+    width: 40%;
+    margin-left: 10rem;
+    text-align: justify;
+    font-weight: 50;
+    letter-spacing: 2px;
+    word-spacing: -1px;
+    line-height: 1.5rem;
+    font-size: 1rem;
+
+}
+#about h4 {    
+    color: white;  
+    text-align: right;      
+    word-spacing: -1px;
+    line-height: 2px;
+    font-size: 0.75rem;
+
+}
+strong {
+    font-size: 2rem;
+    font-weight: 300;
+    color: white;
+}
+#about img {
+    width: 30%;
+    margin-left: 5rem;
+      
+    
+}
+#about {
+    background-color: #343A40;
+
+}
+
+#video div{
+    
+
+}
